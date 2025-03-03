@@ -29,13 +29,18 @@ Steps to Run Locally
 Clone the repository:
 
 bash
-Copy
+
+
 git clone 
-Navigate to the project directory:
+
+(Navigate to the project directory:)
 
 bash
+
 Copy
-cd crypto-dashboard
+
+ cd crypto-dashboard
+
 Install the dependencies:
 
 bash
